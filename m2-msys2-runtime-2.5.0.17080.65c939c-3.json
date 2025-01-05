@@ -1,0 +1,63 @@
+{
+  "build": "3",
+  "build_number": 3,
+  "channel": "https://repo.anaconda.com/pkgs/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\m2-msys2-runtime-2.5.0.17080.65c939c-3",
+  "files": [
+    "Library/usr/bin/cygcheck.exe",
+    "Library/usr/bin/cygpath.exe",
+    "Library/usr/bin/cygwin-console-helper.exe",
+    "Library/usr/bin/dumper.exe",
+    "Library/usr/bin/getconf.exe",
+    "Library/usr/bin/getfacl.exe",
+    "Library/usr/bin/kill.exe",
+    "Library/usr/bin/ldd.exe",
+    "Library/usr/bin/ldh.exe",
+    "Library/usr/bin/locale.exe",
+    "Library/usr/bin/minidumper.exe",
+    "Library/usr/bin/mkgroup.exe",
+    "Library/usr/bin/mkpasswd.exe",
+    "Library/usr/bin/mount.exe",
+    "Library/usr/bin/msys-2.0.dll",
+    "Library/usr/bin/passwd.exe",
+    "Library/usr/bin/pldd.exe",
+    "Library/usr/bin/ps.exe",
+    "Library/usr/bin/regtool.exe",
+    "Library/usr/bin/setfacl.exe",
+    "Library/usr/bin/setmetamode.exe",
+    "Library/usr/bin/ssp.exe",
+    "Library/usr/bin/strace.exe",
+    "Library/usr/bin/tzset.exe",
+    "Library/usr/bin/umount.exe",
+    "Library/usr/share/cygwin/cygwin.ldif",
+    "Library/usr/share/doc/Msys/COPYING",
+    "Library/usr/share/doc/Msys/CYGWIN_LICENSE",
+    "Library/usr/share/doc/Msys/cygserver.README",
+    "Library/usr/share/man/man3/regex.3.gz",
+    "Library/usr/share/man/man7/regex.7.gz",
+    ".nonadmin"
+  ],
+  "fn": "m2-msys2-runtime-2.5.0.17080.65c939c-3.tar.bz2",
+  "license": "GPL",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\m2-msys2-runtime-2.5.0.17080.65c939c-3",
+    "type": 1
+  },
+  "md5": "9544a3c0bbd8e0038bc67522e71f1489",
+  "name": "m2-msys2-runtime",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\m2-msys2-runtime-2.5.0.17080.65c939c-3.tar.bz2",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::m2-msys2-runtime==2.5.0.17080.65c939c=3[md5=9544a3c0bbd8e0038bc67522e71f1489]",
+  "sha256": "c96b6508f062673be9fa0f3c70b8c58bc5cb17d4b32013f95f75f090b94e2cdb",
+  "size": 3123410,
+  "subdir": "win-64",
+  "url": "https://repo.anaconda.com/pkgs/msys2/win-64/m2-msys2-runtime-2.5.0.17080.65c939c-3.tar.bz2",
+  "version": "2.5.0.17080.65c939c"
+}
